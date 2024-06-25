@@ -1,6 +1,7 @@
 # calculadora
 
 Repositorio de prueba, aprendiendo GitHub. 
+
 -Crear respositorio publico o privado.
 -Crear Branch
 -Hacer commit a la nueva rama
